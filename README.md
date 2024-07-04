@@ -1,2 +1,2 @@
 # 02_web
-meu primeiro projeto WEB
+Luíza Castro Nere
